@@ -1,0 +1,215 @@
+[27-Aug-2021 17:30:47 UTC] PHP Warning:  Undefined variable $correo_electronico in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 25
+[27-Aug-2021 17:42:44 UTC] PHP Warning:  Undefined variable $correo_electronico in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 25
+[27-Aug-2021 17:42:44 UTC] PHP Warning:  Undefined property: stdClass::$nota in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 25
+[27-Aug-2021 17:51:59 UTC] PHP Warning:  Undefined variable $correo_electronico in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 21
+[27-Aug-2021 17:51:59 UTC] PHP Warning:  Undefined variable $color_status in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 21
+[27-Aug-2021 17:51:59 UTC] PHP Warning:  Undefined variable $nota in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 21
+[27-Aug-2021 17:51:59 UTC] PHP Warning:  Undefined property: stdClass::$nota in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 21
+[27-Aug-2021 17:51:59 UTC] PHP Warning:  Undefined variable $id_status_operacion in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 21
+[27-Aug-2021 17:51:59 UTC] PHP Warning:  Undefined variable $id_archivo_status in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 21
+[27-Aug-2021 18:08:23 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 22
+[27-Aug-2021 18:25:06 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 20
+[27-Aug-2021 18:35:18 UTC] PHP Warning:  Undefined array key "aksi" in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 21
+[27-Aug-2021 18:35:18 UTC] PHP Warning:  Undefined variable $query in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 28
+[27-Aug-2021 18:44:34 UTC] PHP Warning:  Undefined array key "nota" in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 25
+[27-Aug-2021 20:24:14 UTC] PHP Warning:  Undefined array key "correo_electronico" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarSolicitudOperadores.php on line 20
+[27-Aug-2021 21:43:27 UTC] PHP Warning:  Undefined array key "correo_electronico" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarSolicitudOperadores.php on line 20
+[27-Aug-2021 21:45:27 UTC] PHP Warning:  Undefined array key "aksi" in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 21
+[27-Aug-2021 21:45:27 UTC] PHP Warning:  Undefined variable $query in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 29
+[27-Aug-2021 21:48:22 UTC] PHP Warning:  Undefined array key "aksi" in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 21
+[27-Aug-2021 21:48:22 UTC] PHP Warning:  Undefined variable $query in /home/cqcfdekv/public_html/server_sacep/api/db_solicitarRecuperacionContrasena.php on line 29
+[27-Aug-2021 21:49:46 UTC] PHP Warning:  Undefined array key "correo_electronico" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarSolicitudOperadores.php on line 20
+[27-Aug-2021 21:49:56 UTC] PHP Warning:  Undefined array key "correo_electronico" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarSolicitudOperadores.php on line 20
+[27-Aug-2021 21:55:41 UTC] PHP Warning:  Undefined array key "correo_electronico" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarSolicitudOperadores.php on line 20
+[27-Aug-2021 22:23:37 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciada.php on line 24
+[27-Aug-2021 22:23:37 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciada.php on line 24
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:35:22 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[27-Aug-2021 22:36:17 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[27-Aug-2021 22:36:17 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 13:23:58 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 13:23:58 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:31:04 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:36:40 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 13:36:40 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:37:24 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:16 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 13:49:17 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:27:23 UTC] PHP Warning:  Undefined array key "id_operador" in /home/cqcfdekv/public_html/server_sacep/api/db_registrarHistorialOperador.php on line 20
+[30-Aug-2021 14:27:23 UTC] PHP Warning:  Undefined array key "id_docente" in /home/cqcfdekv/public_html/server_sacep/api/db_registrarHistorialOperador.php on line 21
+[30-Aug-2021 14:27:23 UTC] PHP Warning:  Undefined array key "id_status" in /home/cqcfdekv/public_html/server_sacep/api/db_registrarHistorialOperador.php on line 22
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:31:56 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:50:08 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:31 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 14:56:50 UTC] PHP Warning:  Undefined array key "contrasena_usuario" in /home/cqcfdekv/public_html/server_sacep/api/db_cargarInformacionDocenteP2.php on line 45
+[30-Aug-2021 15:01:59 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 15:01:59 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 16:15:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 20
+[30-Aug-2021 16:26:51 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 17:58:08 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:21 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:21 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:21 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:21 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:22 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:22 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:22 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:22 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:22 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:23 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:23 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:23 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:23 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:24 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:25 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:25 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:25 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:26 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:26 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:26 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 18:15:27 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:29 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:29 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:30 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:30 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:31 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:31 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:31 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:32 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:32 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:50 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:50 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:51 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:51 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:51 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:52 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:52 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:52 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:53 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:53 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:54 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:11:54 UTC] PHP Warning:  Undefined array key "num_empleado" in /home/cqcfdekv/public_html/server_sacep/api/db_buscarOperador.php on line 22
+[30-Aug-2021 19:23:32 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 19:23:32 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 19:25:11 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 19:25:11 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 20:12:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cqcfdekv/public_html/server_sacep/api/db_actualizarContrasena..php on line 21
+[30-Aug-2021 20:12:43 UTC] PHP Warning:  Undefined variable $query in /home/cqcfdekv/public_html/server_sacep/api/db_actualizarContrasena..php on line 26
+[30-Aug-2021 20:17:50 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 20:17:50 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 20:33:50 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 20:33:50 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 20:49:09 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 20:49:09 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 21:35:34 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 21:35:34 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 21:36:09 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 21:36:09 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 21:48:11 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 21:48:11 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionIniciadaOperador.php on line 24
+[30-Aug-2021 21:48:21 UTC] PHP Warning:  Undefined variable $con in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
+[30-Aug-2021 21:48:21 UTC] PHP Warning:  Attempt to read property "insert_id" on null in /home/cqcfdekv/public_html/server_sacep/api/db_registrarSesionFinalizadaOperador.php on line 24
